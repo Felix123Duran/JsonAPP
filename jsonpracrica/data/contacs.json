@@ -1,0 +1,43 @@
+[
+    {
+        "nombre" : "joel",
+        "email" : "joel@gmail.com",
+        "edad" : 20
+    },
+    {
+        "nombre" : "manuel",
+        "email" : "manuel@gmail.com",
+        "edad" : 41
+    },
+    {
+        "nombre" : "richard",
+        "email" : "richard@gmail.com",
+        "edad" : 14
+    },
+    {
+        "nombre" : "miguel",
+        "email" : "miguel@gmail.com",
+        "edad" : 22
+    },
+    {
+        "nombre" : "claudio",
+        "email" : "claudio@gmail.com",
+        "edad" : 74
+    },
+    {
+        "nombre" : "ramon",
+        "email" : "ramon@gmail.com",
+        "edad" : 44
+    },
+    {
+        "nombre" : "sara",
+        "email" : "sara@gmail.com",
+        "edad" : 17
+    },
+    {
+        "nombre" : "perla",
+        "email" : "perla@gmail.com",
+        "edad" : 10
+    }
+
+]
